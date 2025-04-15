@@ -13,7 +13,6 @@ apply plugin: 'com.android.application'
 apply plugin: 'idea'
 
 repositories {
-    maven { url "http://dl.bintray.com/populov/maven" }
     mavenCentral()
 }
 
